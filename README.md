@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Programador Full Stack de 23 anos, residente em Curvelo, Minas Gerais. Cursa Ciência da Computação no Centro Universitário Una – Campus Sete Lagoas. Atua no desenvolvimento de aplicações completas, desde o front-end até o back-end, com foco em soluções eficientes e inovadoras.
+Full Stack Developer, 23 years old, residing in Curvelo, Minas Gerais. Currently pursuing a Bachelor's degree in Computer Science at Centro Universitário Una – Sete Lagoas campus. Proficient in the end-to-end development of software applications, encompassing both front-end and back-end components, with a strong emphasis on delivering efficient, scalable, and innovative technological solutions.
 
 <p align="left">
     <a href="">
